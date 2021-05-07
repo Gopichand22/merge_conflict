@@ -5,7 +5,7 @@ Its not a training program its a learning program
 
 Our Guide: ANUP
 
-members:
+trainee members:
 Gopichand
 Suvadeep
 Bharath
